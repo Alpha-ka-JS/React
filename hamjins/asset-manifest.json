@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/React/hamjins/static/js/main.24a3df03.chunk.js",
+    "main.js.map": "/React/hamjins/static/js/main.24a3df03.chunk.js.map",
+    "runtime-main.js": "/React/hamjins/static/js/runtime-main.b7ccd388.js",
+    "runtime-main.js.map": "/React/hamjins/static/js/runtime-main.b7ccd388.js.map",
+    "static/js/2.4be662db.chunk.js": "/React/hamjins/static/js/2.4be662db.chunk.js",
+    "static/js/2.4be662db.chunk.js.map": "/React/hamjins/static/js/2.4be662db.chunk.js.map",
+    "static/js/3.8b47e248.chunk.js": "/React/hamjins/static/js/3.8b47e248.chunk.js",
+    "static/js/3.8b47e248.chunk.js.map": "/React/hamjins/static/js/3.8b47e248.chunk.js.map",
+    "index.html": "/React/hamjins/index.html",
+    "static/js/2.4be662db.chunk.js.LICENSE.txt": "/React/hamjins/static/js/2.4be662db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7ccd388.js",
+    "static/js/2.4be662db.chunk.js",
+    "static/js/main.24a3df03.chunk.js"
+  ]
+}
